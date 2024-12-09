@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823915921202",
+    "firebase_url": "https://chat-app-backend-e2a5f-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-backend-e2a5f",
+    "storage_bucket": "chat-app-backend-e2a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823915921202:android:6fff8d2da421e78aa8a12b",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaKQV2UZEWZkgsZdNW2DLDCaykJvnIj1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
